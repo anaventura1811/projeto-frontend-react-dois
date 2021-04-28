@@ -8,15 +8,7 @@ function Header({ title }) {
       <h1>{title}</h1>
       <Button 
       color='green'
-      text='Hello'
-      />
-      <Button 
-      color='green'
-      text='Hello 2'
-      />
-      <Button 
-      color='green'
-      text='Hello 3'
+      text='Add'
       />
     </header>
   )
